@@ -1,5 +1,5 @@
 # Arcade_Controller
-Python script for controlling two joysticks and 16 unique buttons buttons 
+Python script for controlling two joysticks and 16 unique buttons for the DIY arcade cabinet below:
 
 
 ![WhatsApp Image 2023-05-17 at 2 08 12 PM (1)](https://github.com/Anidragon/Arcade_Controller/assets/81329162/512ea315-5e33-4b8c-a2ac-d0de7ae59907)
